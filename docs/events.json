@@ -3,21 +3,6 @@
  "timezone": "Europe/Tallinn",
  "events": [
   {
-   "id": "2t13tquhcu1lskrrmr6fhn923b@google.com-2026-09-22T19:00:00+03:00",
-   "series": "2t13tquhcu1lskrrmr6fhn923b@google.com",
-   "title": "Gāyatrī upāsana",
-   "start": "2026-09-22T19:00:00+03:00",
-   "end": "2026-09-22T20:00:00+03:00",
-   "allDay": false,
-   "location": "",
-   "online": true,
-   "description": "",
-   "recurring": true,
-   "seriesIndex": 0,
-   "seriesCount": 9,
-   "seriesLast": "2027-01-12T19:00:00+02:00"
-  },
-  {
    "id": "2t13tquhcu1lskrrmr6fhn923b@google.com-2026-10-06T19:00:00+03:00",
    "series": "2t13tquhcu1lskrrmr6fhn923b@google.com",
    "title": "Gāyatrī upāsana",
@@ -28,8 +13,8 @@
    "online": true,
    "description": "",
    "recurring": true,
-   "seriesIndex": 1,
-   "seriesCount": 9,
+   "seriesIndex": 0,
+   "seriesCount": 8,
    "seriesLast": "2027-01-12T19:00:00+02:00"
   },
   {
@@ -178,8 +163,8 @@
    "online": true,
    "description": "",
    "recurring": true,
-   "seriesIndex": 2,
-   "seriesCount": 9,
+   "seriesIndex": 1,
+   "seriesCount": 8,
    "seriesLast": "2027-01-12T19:00:00+02:00"
   },
   {
@@ -208,8 +193,8 @@
    "online": true,
    "description": "",
    "recurring": true,
-   "seriesIndex": 3,
-   "seriesCount": 9,
+   "seriesIndex": 2,
+   "seriesCount": 8,
    "seriesLast": "2027-01-12T19:00:00+02:00"
   },
   {
@@ -223,8 +208,8 @@
    "online": true,
    "description": "",
    "recurring": true,
-   "seriesIndex": 4,
-   "seriesCount": 9,
+   "seriesIndex": 3,
+   "seriesCount": 8,
    "seriesLast": "2027-01-12T19:00:00+02:00"
   },
   {
@@ -238,8 +223,8 @@
    "online": true,
    "description": "",
    "recurring": true,
-   "seriesIndex": 5,
-   "seriesCount": 9,
+   "seriesIndex": 4,
+   "seriesCount": 8,
    "seriesLast": "2027-01-12T19:00:00+02:00"
   },
   {
@@ -253,8 +238,8 @@
    "online": true,
    "description": "",
    "recurring": true,
-   "seriesIndex": 6,
-   "seriesCount": 9,
+   "seriesIndex": 5,
+   "seriesCount": 8,
    "seriesLast": "2027-01-12T19:00:00+02:00"
   },
   {
@@ -268,8 +253,8 @@
    "online": true,
    "description": "",
    "recurring": true,
-   "seriesIndex": 7,
-   "seriesCount": 9,
+   "seriesIndex": 6,
+   "seriesCount": 8,
    "seriesLast": "2027-01-12T19:00:00+02:00"
   },
   {
@@ -283,10 +268,10 @@
    "online": true,
    "description": "",
    "recurring": true,
-   "seriesIndex": 8,
-   "seriesCount": 9,
+   "seriesIndex": 7,
+   "seriesCount": 8,
    "seriesLast": "2027-01-12T19:00:00+02:00"
   }
  ],
- "generated": "2026-09-21T15:28+03:00"
+ "generated": "2026-09-22T20:16+03:00"
 }
