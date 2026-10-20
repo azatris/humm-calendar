@@ -3,21 +3,6 @@
  "timezone": "Europe/Tallinn",
  "events": [
   {
-   "id": "2t13tquhcu1lskrrmr6fhn923b@google.com-2026-10-20T19:00:00+03:00",
-   "series": "2t13tquhcu1lskrrmr6fhn923b@google.com",
-   "title": "Gāyatrī upāsana",
-   "start": "2026-10-20T19:00:00+03:00",
-   "end": "2026-10-20T20:00:00+03:00",
-   "allDay": false,
-   "location": "",
-   "online": true,
-   "description": "",
-   "recurring": true,
-   "seriesIndex": 0,
-   "seriesCount": 7,
-   "seriesLast": "2027-01-12T19:00:00+02:00"
-  },
-  {
    "id": "5j9psvni6baagaluqu7g7ligkk@google.com-2026-10-20T20:00:00+03:00",
    "series": "5j9psvni6baagaluqu7g7ligkk@google.com",
    "title": "Navaratri Durgā pūjā",
@@ -43,8 +28,8 @@
    "online": true,
    "description": "",
    "recurring": true,
-   "seriesIndex": 1,
-   "seriesCount": 7,
+   "seriesIndex": 0,
+   "seriesCount": 6,
    "seriesLast": "2027-01-12T19:00:00+02:00"
   },
   {
@@ -58,8 +43,8 @@
    "online": true,
    "description": "",
    "recurring": true,
-   "seriesIndex": 2,
-   "seriesCount": 7,
+   "seriesIndex": 1,
+   "seriesCount": 6,
    "seriesLast": "2027-01-12T19:00:00+02:00"
   },
   {
@@ -73,8 +58,8 @@
    "online": true,
    "description": "",
    "recurring": true,
-   "seriesIndex": 3,
-   "seriesCount": 7,
+   "seriesIndex": 2,
+   "seriesCount": 6,
    "seriesLast": "2027-01-12T19:00:00+02:00"
   },
   {
@@ -88,8 +73,8 @@
    "online": true,
    "description": "",
    "recurring": true,
-   "seriesIndex": 4,
-   "seriesCount": 7,
+   "seriesIndex": 3,
+   "seriesCount": 6,
    "seriesLast": "2027-01-12T19:00:00+02:00"
   },
   {
@@ -103,8 +88,8 @@
    "online": true,
    "description": "",
    "recurring": true,
-   "seriesIndex": 5,
-   "seriesCount": 7,
+   "seriesIndex": 4,
+   "seriesCount": 6,
    "seriesLast": "2027-01-12T19:00:00+02:00"
   },
   {
@@ -118,10 +103,10 @@
    "online": true,
    "description": "",
    "recurring": true,
-   "seriesIndex": 6,
-   "seriesCount": 7,
+   "seriesIndex": 5,
+   "seriesCount": 6,
    "seriesLast": "2027-01-12T19:00:00+02:00"
   }
  ],
- "generated": "2026-10-20T01:17+03:00"
+ "generated": "2026-10-20T20:30+03:00"
 }
