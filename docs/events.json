@@ -3,21 +3,6 @@
  "timezone": "Europe/Tallinn",
  "events": [
   {
-   "id": "5j9psvni6baagaluqu7g7ligkk@google.com-2026-10-20T20:00:00+03:00",
-   "series": "5j9psvni6baagaluqu7g7ligkk@google.com",
-   "title": "Navaratri Durgā pūjā",
-   "start": "2026-10-20T20:00:00+03:00",
-   "end": "2026-10-20T21:00:00+03:00",
-   "allDay": false,
-   "location": "",
-   "online": true,
-   "description": "",
-   "recurring": true,
-   "seriesIndex": 0,
-   "seriesCount": 1,
-   "seriesLast": "2026-10-20T20:00:00+03:00"
-  },
-  {
    "id": "2t13tquhcu1lskrrmr6fhn923b@google.com-2026-11-03T19:00:00+02:00",
    "series": "2t13tquhcu1lskrrmr6fhn923b@google.com",
    "title": "Gāyatrī upāsana",
@@ -108,5 +93,5 @@
    "seriesLast": "2027-01-12T19:00:00+02:00"
   }
  ],
- "generated": "2026-10-20T20:30+03:00"
+ "generated": "2026-10-20T23:50+03:00"
 }
